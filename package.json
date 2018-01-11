@@ -13,6 +13,15 @@
     "react"
   ],
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinhlh/tagged-translations"
+  },
+  "license": "MIT",
+    "bugs": {
+    "url": "https://github.com/vinhlh/tagged-translations/issues"
+  },
+  "homepage": "https://github.com/vinhlh/tagged-translations#readme",
   "dependencies": {
     "babel-plugin-macros": "^2.0.0"
   },
